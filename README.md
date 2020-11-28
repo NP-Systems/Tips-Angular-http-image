@@ -1,20 +1,14 @@
 ## Abstract
-このリポジトリは
+このリポジトリはフロントエンドアプリケーションフレームワークであるAngular(Ionic)で非同期通信を実装する方法をサンプルアプリとして紹介するものです。
+動作確認用にPythonで作成したバックエンドコード付きです。
 
 ## Environment
+フロントエンド
 Angular CLI: 10.0.5
+Ionic CLI : 6.10.0
 Node: 12.18.0
-OS: darwin x64
 
-Angular: 
-... 
-Ivy Workspace: 
-
-Package                      Version
-------------------------------------------------------
-@angular-devkit/architect    0.1000.5
-@angular-devkit/core         10.0.5
-@angular-devkit/schematics   10.0.5
-@schematics/angular          10.0.5
-@schematics/update           0.1000.5
-rxjs                         6.5.5
+バックエンド
+Python 3.7.3
+Flask 1.1.2
+Flask-Cors 3.0.9
